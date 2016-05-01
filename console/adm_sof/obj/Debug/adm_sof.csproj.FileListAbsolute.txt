@@ -1,0 +1,12 @@
+E:\adm_sof\adm_sof\bin\Debug\adm_sof.exe.config
+E:\adm_sof\adm_sof\bin\Debug\adm_sof.exe
+E:\adm_sof\adm_sof\bin\Debug\adm_sof.pdb
+E:\adm_sof\adm_sof\obj\Debug\adm_sof.csprojResolveAssemblyReference.cache
+E:\adm_sof\adm_sof\obj\Debug\adm_sof.exe
+E:\adm_sof\adm_sof\obj\Debug\adm_sof.pdb
+E:\adm_sof\console\adm_sof\bin\Debug\adm_sof.exe.config
+E:\adm_sof\console\adm_sof\obj\Debug\adm_sof.exe
+E:\adm_sof\console\adm_sof\obj\Debug\adm_sof.pdb
+E:\adm_sof\console\adm_sof\bin\Debug\adm_sof.exe
+E:\adm_sof\console\adm_sof\bin\Debug\adm_sof.pdb
+E:\adm_sof\console\adm_sof\obj\Debug\adm_sof.csprojResolveAssemblyReference.cache
