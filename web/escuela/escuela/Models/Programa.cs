@@ -9,6 +9,6 @@ namespace escuela.Models
     {
         public int Id { get; set; }
         public string Nombre { get; set; }
-        public string Version { get; set; }
+        public Int32 Tamanho { get; set; }
     }
 }
